@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508579633938",
+    "project_id": "hichat-4703d",
+    "storage_bucket": "hichat-4703d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508579633938:android:e639db92f0745ea924b1cb",
+        "android_client_info": {
+          "package_name": "com.example.project_akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508579633938-jpamu27ivjkd4jt4gmuuk9h7n3gqgj08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_akhir",
+            "certificate_hash": "0652ddd9b92529f6d439f1ca7fb09239f7898569"
+          }
+        },
+        {
+          "client_id": "508579633938-pl94b002die2vqgb2frutq6dlj7dvobo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDQgoVBOC1iAE_OyBsuKy1ECdxdiAIeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508579633938-pl94b002die2vqgb2frutq6dlj7dvobo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
